@@ -1,0 +1,130 @@
+	
+	
+NEWTON'S LAWS	
+Recognize when Newton's First Law applies	N1Lrec
+Recognize inertial and non-inertial reference frames	N1Linertial
+Explain the difference between Fnet and ma	N2LFnetvsma
+Recognize objects in equilibrium	N2Lequil
+Apply Newton's 2nd Law to calculate the acceleration or the force	N2Lapply
+Verify that the net force on the FBD and the acceleration are consistent	N2Lfbdconsistent
+Draw or identify FBD showing the two opposite forces that come from the mutual interaction	N3Lfbd
+	
+	
+FORCES	
+Represent the common forces in a FBD	FNLfbd
+Relate weight and mg	FNLweight
+Apply expression for universal gravity	FNLug
+Calculate the elastic restoring force	FNLHooke
+Calculate the tension	FNLTension
+Calculate the normal force	FNLNormal
+Calculate the kinetic friction force	FNLkinfric
+Calculate the static friction force	FNLstatfric
+Identify when F_s = \mu_s * N	FNLF=us*N
+	
+	
+NEWTON's LAWS WITH CONSTRAINTS	
+ Identify the system and the internal/external forces and interactions	FNL3system&forces
+Calculate constraint forces (normal force, tension and static friction) given constrained acceleration(s)	FNLForceFromConstraint
+Represent constraint conditions mathematically (pulleys, contact, string, inclines, etc.)	FNLconstraint
+	
+	
+KINEMATICS - DEFINITIONS	
+Define the coordinate system, the position and the displacement vectors	K1pos
+Calculate the average velocity, the instantaneous velocity and speed	K1vel
+ Calculate v and a for different scenarios	K1v&a
+Interrelate displacement, velocity and acceleration in multiple representations (graphical, diagrammatic, mathematical)	K1graph
+	
+	
+1-D KINEMATICS	
+ Solve problems that feature 1D motion with v=const	K1cvm
+Solve problems that feature 1D motion with a=const.	K1cam
+Calculate x(t), v(t) and a(t) by differentiating and integrating 	K1a(t)
+Graph changing motion 	K1graph
+	
+2-D KINEMATICS	
+Apply the constant velocity and the constant acceleration model to solve projectile motion problems	K2proj
+Solve problems in which an object has different motions in consecutive time intervals	K1consec
+	
+Solve problems that deal with the motion of more than one object	K1twobody
+Draw the tangential velocity, centripetal acc and net force for an object undergoing circular motion	K2ucmgraph
+Calculate the tangential velocity, centripetal acc and net force for an object undergoing uniform circular motion	K2ucma&v
+Relate the tangential acceleration and angular acceleration	K2nucm
+Find the direction of the acc graphically	K2a&vgraph
+	
+	
+LINEAR MOMENTUM	
+Calculate momentum for a system of particles (analytically and graphically)	Mmo
+Calculate the impulse from a time-varying force	Mci
+Calculate Impulse from average force	Mfavg
+Relate momentum and impulse	Mpi
+Identify situations in which we can apply conservation of momentum	Mmc
+Calculate the CM position for multi-body system	Mrcm
+Determine the Motion of Center of Mass 	Mmcm
+Apply dp/dt = Fext	Mdp
+Obtain differential equation by applying momentum and impulse at t and t + \Delta t	Mde
+Mass flow	Maf
+Compare and Contrast Agent of change for Momentum and Energy	
+	
+	
+MECHANICAL ENERGY	
+Calculate work from constant vector force	EwFconst
+Calculate power due to a force acting on objbect with a given velocity	Epower
+Calculate the work using the integral	EwF(x)
+Find potential energy from work	EfindPE
+Calculate the  potential energy for uniform gravity	EuniformGravPE
+Calculate the elastic potential energy	EspringPE
+Calculate the potential energy for universal gravity	EuniversalGravPE
+Identify situations where ME is constant	Emeconstant
+Apply the conservation of mechanical energy	EapplyMEconstant
+Relate Mechanical Energy and Non-conservative Work	ErelateMEandWnc
+Represent the mechanical energy in bar diagrams and graphs	EGraphical
+Calculate the force from potential energy	EforceFromU(x)
+Use potential energy diagrams to identify equilibrium positions	Eequilibria
+	
+	
+ROTATIONAL KINEMATICS	
+Represent  the sign/direction and magnitude of omega and alpha for different rotations	change to K2Rsign/direction2D
+Interrelate angular position, velocity, and acceleration	K2RotationalKinematics
+Vector Representation of Angular Motion including a not parallel to \omega	K3Rvector3D
+Velocity of points on rotating translating rigid body	K2RvelocityRigidBodyPoints
+ Calculate the constraint equations involving rolling constraints: conveyer belt, yoyos, rolling objects	K2RrollingConstranits
+	
+ROTATIONAL DYNAMICS	
+	
+Find the magnitude and direction of the torque when object and force lie in a plane	FARtorque2D
+Find the magnitude and direction of the torque about a point due to any force	FARtorque3D
+Apply tau=I alpha	FARrelateTau&alpha
+Calculate moment of inertia from mass distribution	FARMomentFromMass
+Apply the Parallel Axis Theorem	FARparallelAxisTheorem
+Rotational and Translational Equilibrium	FARstatics
+	
+	
+KINETIC ENERGY OF ROTATION	
+Calculate the kinetic energy of rotating rigid bodies	Ek_rot
+Find the kinetic energy of a rotating, translating rigid body	Ek_rot&trans
+	
+	
+ANGULAR MOMENTUM	
+Calculate the magnitude and the direction of the angular momentum vector of a point particle in 2-D	AMparticleAxis2D
+Calculate the angular momentum of a rigid object rotating about a fixed axis in 2-D	AMrigidBody2D
+Calculate angular momentum of a rigid object rotating in 3-D	AMrigidBody3D
+Calculate the angular momentum of a rigid object that translates and rotates	AMrotatingTranslating
+Relate angular impulse and overall change in angular momentum	AMandImpulse
+Recognize situation and identify axis about which angular momentum is constant	AMconstantAxis
+	
+	
+ORBITS	
+Use the Newton's law of gravity to find g at different locations relative to the surface of the planet and to predict the change in force caused by the change in distance, etc.	FNLug
+Apply Kepler's 3 laws, know definitions	OkeplerLaws
+Calculate angular momenta of orbiting bodies and apply angular momentum constant	Oenergy
+	
+	
+HARMONIC MOTION	
+Identify the physical significance of the terms in the general expression for x(t)	HMgeneralSolution
+Obtain and Identify Differential eqn leading to SHM	HMdifferentialEquation
+Relate the parameters in general x(t) and the intial conditions	HMfitInitialCconditions
+Decide when the conservation of energy should be applied to solve a problem	EapplyMEconstant
+Calculate the KE, PE, E for a SHM at different moments in time	Espring PE, Eke
+Calculate the period of the pendulum	HMpendulum
+Apply SHM to compound pendula, torsional pendula, etc.	HMgeneralSituations
+Identify the correct equation of motion for a damped oscillator	HMdamped
