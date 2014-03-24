@@ -7,11 +7,11 @@ Explain the difference between Fnet and ma	N2LFnetvsma
 Recognize objects in equilibrium	N2Lequil
 Apply Newton's 2nd Law to calculate the acceleration or the force	N2Lapply
 Verify that the net force on the FBD and the acceleration are consistent	N2Lfbdconsistent
-Draw or identify FBD showing the two opposite forces that come from the mutual interaction	N3Lfbd
+Draw or identify FBD showing the two opposite forces that come from the mutual interaction	N3Lfbddraw
 	
 	
 FORCES	
-Represent the common forces in a FBD	FNLfbd
+Represent the common forces in a FBD	FNLfbdrep
 Relate weight and mg	FNLweight
 Apply expression for universal gravity	FNLug
 Calculate the elastic restoring force	FNLHooke
@@ -32,7 +32,7 @@ KINEMATICS - DEFINITIONS
 Define the coordinate system, the position and the displacement vectors	K1pos
 Calculate the average velocity, the instantaneous velocity and speed	K1vel
  Calculate v and a for different scenarios	K1v&a
-Interrelate displacement, velocity and acceleration in multiple representations (graphical, diagrammatic, mathematical)	K1graph
+Interrelate displacement, velocity and acceleration in multiple representations (graphical, diagrammatic, mathematical)	K1graphrep
 	
 	
 1-D KINEMATICS	
@@ -114,7 +114,7 @@ Recognize situation and identify axis about which angular momentum is constant	A
 	
 	
 ORBITS	
-Use the Newton's law of gravity to find g at different locations relative to the surface of the planet and to predict the change in force caused by the change in distance, etc.	FNLug
+Use the Newton's law of gravity to find g at different locations relative to the surface of the planet and to predict the change in force caused by the change in distance, etc.	FNLugorb
 Apply Kepler's 3 laws, know definitions	OkeplerLaws
 Calculate angular momenta of orbiting bodies and apply angular momentum constant	Oenergy
 	
@@ -123,7 +123,7 @@ HARMONIC MOTION
 Identify the physical significance of the terms in the general expression for x(t)	HMgeneralSolution
 Obtain and Identify Differential eqn leading to SHM	HMdifferentialEquation
 Relate the parameters in general x(t) and the intial conditions	HMfitInitialCconditions
-Decide when the conservation of energy should be applied to solve a problem	EapplyMEconstant
+Decide when the conservation of energy should be applied to solve a problem	EdecideMEconstant
 Calculate the KE, PE, E for a SHM at different moments in time	Espring PE, Eke
 Calculate the period of the pendulum	HMpendulum
 Apply SHM to compound pendula, torsional pendula, etc.	HMgeneralSituations
