@@ -23,10 +23,10 @@ def get_concept_list(request):
     try:
         query = request.GET['q']
         print query
-        results_slug = [u.slug for u in URLPath.objects.filter(slug__contains = query) if u.slug]
+        results_slug = [u.slug for u in URLPath.objects.filter(slug__contains = query)]
         results_article = [u.slug for u in URLPath.objects.all() if query in URLPath.objects.get(slug=u.slug).article.render()]
         results_title = [u.slug for u in URLPath.objects.all() if query in URLPath.objects.get(slug=u.slug).article.current_revision.title]
-        results = list(OrderedDict.fromkeys(results_slug + results_title + results_article))
+        results = [u for u in OrderedDict.fromkeys(results_slug + results_title + results_article) if u] # Collect unique set
         return JSONResponse(results)
     except: 
         print sys.exc_info()

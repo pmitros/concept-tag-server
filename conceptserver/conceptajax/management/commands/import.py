@@ -20,7 +20,7 @@ class Command(BaseCommand):
                 title = l[0]
                 continue
             slug = l[1]
-            for c in ",.-&()/\\:*":
+            for c in ",.-&()/\\:* =":
                 slug = slug.replace(c, "_")
             article = "*"+title+"*: "+ l[0]
             root = wiki.models.URLPath.objects.get(id = 1)
